@@ -1,4 +1,4 @@
-def quicksort := {
+GHdef quicksort := {
  
     def swap(container, ixA, ixB) {
         def temp := container[ixA]

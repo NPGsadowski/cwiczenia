@@ -1,4 +1,4 @@
-# the following qsort implementation extracted from:
+D# the following qsort implementation extracted from:
 #
 #       ftp://ftp.armory.com/pub/lib/awk/qsort
 #

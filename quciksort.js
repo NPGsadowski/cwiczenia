@@ -1,5 +1,5 @@
-function sort(array, less) {
- 
+Afunction sort(array, less) {
+
   function swap(i, j) {
     var t = array[i];
     array[i] = array[j];
