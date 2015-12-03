@@ -1,4 +1,4 @@
-DCL (T(20)) FIXED BIN(31);   /* scratch space of length N */
+ADCL (T(20)) FIXED BIN(31);   /* scratch space of length N */
  
 QUICKSORT: PROCEDURE (A,AMIN,AMAX,N) RECURSIVE ;
    DECLARE (A(*))              FIXED BIN(31);

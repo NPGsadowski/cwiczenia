@@ -1,4 +1,4 @@
-#include <stdio.h>
+E#include <stdio.h>
  
 void quick_sort (int *a, int n) {
     int i, j, p, t;

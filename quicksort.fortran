@@ -1,4 +1,4 @@
-module qsort_mod
+Kmodule qsort_mod
  
 implicit none
  
