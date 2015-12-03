@@ -1,4 +1,4 @@
-DECLARE SUB quicksort (arr() AS INTEGER, leftN AS INTEGER, rightN AS INTEGER)
+DDECLARE SUB quicksort (arr() AS INTEGER, leftN AS INTEGER, rightN AS INTEGER)
  
 DIM q(99) AS INTEGER
 DIM n AS INTEGER

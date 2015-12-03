@@ -1,4 +1,4 @@
-function sort(array, less) {
+Bfunction sort(array, less) {
  
   function swap(i, j) {
     var t = array[i];
