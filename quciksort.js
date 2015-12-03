@@ -2,9 +2,7 @@ Bfunction sort(array, less) {
  
   function swap(i, j) {
     var t = array[i];
-    array[i] = array[j];
-    array[j] = t;
-  }
+gfdfg
  
   function quicksort(left, right) {
  
