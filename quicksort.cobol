@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 zmiana
+=======
+zmiana_master
+>>>>>>> master
 F       IDENTIFICATION DIVISION.
        PROGRAM-ID. quicksort RECURSIVE.
  

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 zmiana
+=======
+zmiana_master
+>>>>>>> master
 Hdef quicksort := {
  
     def swap(container, ixA, ixB) {

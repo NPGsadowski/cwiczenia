@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 zmiana
 #include <stdio.h>
+=======
+zmiana_master
+E#include <stdio.h>
+>>>>>>> master
  
 void quick_sort (int *a, int n) {
     int i, j, p, t;

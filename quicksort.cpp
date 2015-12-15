@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 zmiana
+=======
+zmiana_master
+>>>>>>> master
 G#include <iterator>
 #include <algorithm> // for std::partition
 #include <functional> // for std::less

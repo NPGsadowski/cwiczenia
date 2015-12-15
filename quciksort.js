@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 zmiana
+=======
+zmiana_master
+>>>>>>> master
 Bfunction sort(array, less) {
  
   function swap(i, j) {
