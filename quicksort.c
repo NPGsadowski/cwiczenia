@@ -1,4 +1,5 @@
-E#include <stdio.h>
+zmiana
+#include <stdio.h>
  
 void quick_sort (int *a, int n) {
     int i, j, p, t;

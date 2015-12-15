@@ -1,3 +1,4 @@
+zmiana
 Hdef quicksort := {
  
     def swap(container, ixA, ixB) {

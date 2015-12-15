@@ -1,3 +1,4 @@
+zmiana
 F       IDENTIFICATION DIVISION.
        PROGRAM-ID. quicksort RECURSIVE.
  
