@@ -1,3 +1,4 @@
+zmiana_master
 Bfunction sort(array, less) {
  
   function swap(i, j) {

@@ -1,3 +1,4 @@
+zmiana_master
 ADCL (T(20)) FIXED BIN(31);   /* scratch space of length N */
  
 QUICKSORT: PROCEDURE (A,AMIN,AMAX,N) RECURSIVE ;
